@@ -1,0 +1,27 @@
+_repo: A-Living-from-the-Land_33060
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Duryee, William Budington
+    alias: Duryee, William B.
+    birthdate: 1888
+    gutenberg_agent_id: '36184'
+    url: http://www.gutenberg.org/2009/agents/36184
+description: ''
+gutenberg_issued: '2010-07-03'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '33060'
+  lccn: '34003094'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Agriculture'
+- !lcc 'S'
+title: A Living from the Land
+url: http://www.gutenberg.org/ebooks/33060
